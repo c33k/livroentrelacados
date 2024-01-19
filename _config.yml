@@ -21,15 +21,13 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 timezone:   Europe/Prague
 locale:     en_us
 name:				LIVROENTRELACADOS
-tagline:    'tagline'
-rss:        rss feed url
 
-#theme: minima
-permalink:           /:categories/:title/
-
-metainfo:
-  baseurl: "/"
-
+theme: 
 author:
   name:           	 Rafael L. Toscano
   url:            	 http://otoscano.com/livroentrelacados
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
