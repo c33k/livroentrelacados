@@ -7,7 +7,7 @@ layout: default
 Os depoimentos de algumas pessoas que foram tocadas com o nosso DO, com as suas
 ramificações e frutos: um pedacinho da história daqueles que ajudaram a HO ser possível.
 
-# ALEX PIERRE COMODO FILHO (Faixa preta de taekwondo 1º dan, aluno da CPCAR – Curso Preparatório de Cadetes do Ar)
+## ALEX PIERRE COMODO FILHO (Faixa preta de taekwondo 1º dan, aluno da CPCAR – Curso Preparatório de Cadetes do Ar)
 
 > Meu nome é Alex Pierre Comodo Filho, tenho 19 anos e estou concluindo o CPCAR (Curso
 > Preparatório de Cadetes do Ar). Sou natural de Niterói/RJ, porém atualmente resido em
