@@ -1,2 +1,2 @@
 # livroentrelacados
-Website do livro Entrelaçados do autor Ricardo Andrade
+Website do livro Entrelaçados, dos autores Ricardo Andrade e Zeca Salgueiro
